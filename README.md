@@ -24,7 +24,7 @@ sending those data to Ubidots.
 
 	Device ID:2, Input Resister, Address-0, Length-1
 
-4. Modbus RTU setting:
+4.Modbus RTU setting:
 
 	Port- COM5
 
