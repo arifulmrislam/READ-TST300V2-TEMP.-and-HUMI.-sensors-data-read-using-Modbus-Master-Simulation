@@ -25,4 +25,4 @@ Read TST300 V2 temperature and humidity sensor data read using Modbus Master sim
 
 <img src= "Modbus-Node cong for Temperature sensor 1.png" width=800>
 
-<img src= "Modbus-Node cong for Temperature sensor 2.png" width=800>
+<img src= "Modbus-Node conf for Temperature sensor 2.png" width=800>
