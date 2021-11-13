@@ -98,7 +98,7 @@ https://help.ubidots.com/en/articles/1440402-connect-node-red-with-ubidots
 
 Node red flow to connect and sending data to Ubidots,
 
-<img src= "Flow of Node-Red.png" width=600>
+<img src= "Flow of Node-Red.png" width=800>
 
 Settings Ubidots node,
 
