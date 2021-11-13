@@ -24,7 +24,7 @@ sending those data to Ubidots.
 
 	Device ID:2, Input Resister, Address-0, Length-1
 
-	Modbus RTU setting:
+4. Modbus RTU setting:
 
 	Port- COM5
 
@@ -34,13 +34,13 @@ sending those data to Ubidots.
 
 	Stop Bit-1
 
-4.Those data send to Node-red: Temperature sensor RTU settings:
+5.Those data send to Node-red: Temperature sensor RTU settings:
 
 <img src= "Modbus-Node cong for Temperature sensor 1.png" width=600>
 
 <img src= "Modbus-Node conf for Temperature sensor 2.png" width=600>
 
-5.Meter data read by node-red:
+6.Meter data read by node-red:
 
 <img src= "Modbus-Node conf for Meter sensor 1.png" width=600>
 
@@ -50,13 +50,13 @@ sending those data to Ubidots.
 
 <img src= "Data-Converter.png" width=600>
 
-5.Those data send to Node-red: Humidity sensor:
+7.Those data send to Node-red: Humidity sensor:
 
 <img src= "Modbus-Node conf for Humidity sensor 1.png" width=600>
 
 <img src= "Modbus-Node conf for Humidity sensor 1.png" width=600>
 
-6.Simens IOT2040 Connection:
+8.Simens IOT2040 Connection:
 
 	Open the IoT2040 then remove memory card.
 
@@ -70,7 +70,8 @@ sending those data to Ubidots.
 
 	Then we connect IoT2040 by putty. It has default IP-192.168.200.1
 
-Login-root 
+Login-root
+
 Password-passwd.
 
 	Type (iot2000setup) for entry the device.
@@ -93,7 +94,7 @@ https://help.ubidots.com/en/articles/1410250-connect-a-siemens-simatic-iot2000-t
 
 https://help.ubidots.com/en/articles/1440402-connect-node-red-with-ubidots
 
-7.Login Node-red using brower:
+9.Login Node-red using brower:
 
 Node red flow to connect and sending data to Ubidots,
 
